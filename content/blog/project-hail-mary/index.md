@@ -31,3 +31,25 @@ and there is where the book's highlight comes in.
 weir manages to explain the heavy and technical science concepts without sounding condescending. given grace's background as well, his inner monologue is naturally educational but never patronising. he explains astrophysics, chemistry, molecular biology, etc., with desperate and enthusiastic bursts of energy. he explains just enough for the reader to experience the eureka moment right alongside rocky and grace.
 
 ultimately, this hard sci-fi book is rather fast-paced and a deeply optimistic read. while i found certain parts a little draggy and the ending rather bittersweet, i enjoyed this book a lot! the movie will be out on 20 mar and im rather stoked to catch it soon.
+
+## word bank
+
+some words that i've picked up from the book!
+
+| word         | definition                                                                                                                                 | example                                                                     |
+| :----------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
+| dour         | relentlessly severe, stern, or gloomy in manner or appearance.                                                                             | He was a dour middle-aged man.                                              |
+| flummox      | perplex (someone) greatly; bewilder.                                                                                                       | The question flummoxed me.                                                  |
+| careen       | move swiftly and in an uncontrolled way in a specified direction.                                                                          | The car careened around the corner.                                         |
+| undulate     | move or go with a smooth up-and-down motion.                                                                                               | The flag undulated in the breeze.                                           |
+| supplication | the action of asking or begging for something earnestly or humbly.                                                                         | He fell to his knees in supplication.                                       |
+| admonishment | a firm warning or reprimand.                                                                                                               | He received a stern admonishment.                                           |
+| farce        | a comic dramatic work using buffoonery and horseplay and typically including crude characterization and ludicrously improbable situations. | The play was a farce, with ridiculous characters and an absurd plot.        |
+| ameliorate   | make (something bad or unsatisfactory) better.                                                                                             | The new policies aim to ameliorate the living conditions of the poor.       |
+| winnow       | (of the wind) blow through (a place), especially in a way that causes discomfort.                                                          | The cold wind winnowed through the trees, making it difficult to stay warm. |
+| gingerly     | in a careful or cautious manner.                                                                                                           | He gingerly stepped onto the icy sidewalk to avoid slipping.                |
+| tizzy        | a state of nervous excitement or agitation.                                                                                                | She was in a tizzy before her big presentation.                             |
+| volition     | the faculty or power of using one's will.                                                                                                  | He left the company of his own volition.                                    |
+| meander      | (of a river or road) follow a winding course.                                                                                              | The river meandered through the valley.                                     |
+| suffuse      | gradually spread through or over.                                                                                                          | The morning light suffused the room with a warm glow.                       |
+
